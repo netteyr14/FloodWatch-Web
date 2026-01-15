@@ -46688,7 +46688,7 @@ if(i==null)i="Resident"
 h=n.z
 g=h==null
 f=g?null:h.gDb()
-if(f==null)f="Unknown"
+if(f==null)f="N/A"
 e=l
 e=e==null?null:e.a
 d=l
@@ -46838,7 +46838,7 @@ return new A.bt(B.aH,A.da(A.b([new A.W2(s.c,s.f,s.r,s.w,s.x,null),B.b5,new A.VD(
 A.Fm.prototype={
 H(){return"Trend."+this.b}}
 A.W2.prototype={
-aoI(a){if(a==null)return"Unknown"
+aoI(a){if(a==null)return"N/A"
 if(a===0)return"Dry"
 if(a<50)return"Feet"
 if(a<100)return"Knees"
@@ -46884,7 +46884,7 @@ case B.iD:n="Falling"
 break
 case B.iE:n="Stable"
 break
-case null:case void 0:n="Unknown"
+case null:case void 0:n="N/A"
 break
 default:n=a0}m=a.e
 if(m!=null){l=A.hg(a6,B.be,t.c4)
@@ -47025,7 +47025,7 @@ $S:428}
 A.a7b.prototype={}
 A.dQ.prototype={
 gDb(){var s=this.r
-if(s==null)return"Unknown"
+if(s==null)return"N/A"
 if(s>=35)return"High"
 else if(s>=29)return"Moderate"
 else return"Low"}}
