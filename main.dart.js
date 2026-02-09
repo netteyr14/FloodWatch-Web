@@ -46914,7 +46914,7 @@ g=A.hN(B.Ic,a1.y,a0,20)
 f=A.Q(a6).ok.Q
 if(f==null)f=a0
 else{e=a1.k3
-f=f.bJ(A.aa(B.d.am(255*(a2?0.75:0.6)),e.p()>>>16&255,e.p()>>>8&255,e.p()&255))}f=A.bC("Water level (1h)",a0,a0,a0,f,a0,a0)
+f=f.bJ(A.aa(B.d.am(255*(a2?0.75:0.6)),e.p()>>>16&255,e.p()>>>8&255,e.p()&255))}f=A.bC("Water level (2h)",a0,a0,a0,f,a0,a0)
 e=A.Q(a6).ok.r
 e=A.bC(q,a0,a0,a0,e==null?a0:e.qY(B.eJ),a0,a0)
 d=A.aa(31,a3.p()>>>16&255,a3.p()>>>8&255,a3.p()&255)
