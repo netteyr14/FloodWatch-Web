@@ -49192,7 +49192,7 @@ A.ayv.prototype={
 $2(a,b){var s,r,q=null,p=b.b,o=p>=900,n=p>=600&&p<900
 if(o)s=500
 else if(n)s=420
-else{r=p<600?425:385
+else{r=p<600?420:385
 s=r}r=this.a
 return A.uM(new A.bu(B.eK,A.cW(A.b([r.a8J(a,!1,o),B.aU,r.a8M(),B.aU,A.cZ(A.aGF(A.cg(20),r.a8O(),B.bj),s,q)],t.p),B.aj,B.B),q),q,q)},
 $S:392}
