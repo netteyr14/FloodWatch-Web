@@ -49189,7 +49189,7 @@ $0(){return this.a.f=!1},
 $S:0}
 A.ayv.prototype={
 $2(a,b){var s,r,q=null,p=b.b
-if(p>=900)s=560
+if(p>=900)s=590
 else s=p>=600?520:385
 r=this.a
 return A.uM(new A.bu(B.eK,A.cW(A.b([r.a8J(a,p<480),B.aU,r.a8M(),B.aU,A.cZ(A.aGF(A.cg(20),r.a8O(),B.bj),s,q)],t.p),B.aj,B.B),q),q,q)},
