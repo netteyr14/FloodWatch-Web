@@ -49187,7 +49187,7 @@ $0(){return this.a.f=!1},
 $S:0}
 A.ayv.prototype={
 $2(a,b){var s,r,q=null,p=b.b,o=p>=600&&p<900
-if(p>=900)s=600
+if(p>=900)s=500
 else if(o)s=420
 else{r=p<600?350:385
 s=r}r=this.a
