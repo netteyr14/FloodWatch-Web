@@ -49186,10 +49186,10 @@ A.ayu.prototype={
 $0(){return this.a.f=!1},
 $S:0}
 A.ayv.prototype={
-$2(a,b){var s,r,q=null,p=b.b,o=p>=600&&p<900,n=p>=600&&p<1500
+$2(a,b){var s,r,q=null,p=b.b,o=p>=600&&p<900
 if(p>=900)s=500
 else if(o)s=420
-else{r=n?390:385
+else{r=p>=600?390:385
 s=r}r=this.a
 return A.uM(new A.bA(B.eK,A.d0(A.b([r.a8J(a,!1),B.aU,r.a8M(),B.aU,A.cY(A.aGF(A.cg(20),r.a8O(),B.bj),s,q)],t.p),B.ao,B.D),q),q,q)},
 $S:392}
