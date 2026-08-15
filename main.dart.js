@@ -9525,7 +9525,7 @@ a5K:function a5K(a){this.a=a},
 aIM(a){return $.aHa().mm(0,a)},
 aT4(a){var s
 $label0$0:{if(B.lc===a){s="Location access is blocked. Allow Location for floodwatchph.me, then try again."
-break $label0$0}if(B.qu===a||B.qv===a||B.qx===a){s="Could not get your location. Please check your device settings and make sure Location Services (or GPS) are turned on, and that this app or browser is allowed to access your precise location, then try again."
+break $label0$0}if(B.qu===a||B.qv===a||B.qx===a){s="Could not get your location. Please check your device settings and make sure Location Services (or GPS), and precise location are turned on."
 break $label0$0}if(B.qw===a){s="Location is unavailable in this browser."
 break $label0$0}if(B.qy===a||a==null){s="Failed to get your location. Please try again."
 break $label0$0}s=null}return s},
