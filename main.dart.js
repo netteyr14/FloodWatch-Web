@@ -52788,7 +52788,7 @@ o=A.jL(a.bq(0.35),1)
 n=A.D(a2).avb(B.A,B.A)
 l=f.c
 k=A.cW(B.lu,a,g,g)
-j=A.aI("Safety guidance",g,g,g,g,g,A.cO(g,g,a,g,g,g,g,g,g,g,g,g,g,g,B.al,g,g,!0,g,g,g,g,g,g,g,g),g,g)
+j=A.aI("Safety Guidance",g,g,g,g,g,A.cO(g,g,a,g,g,g,g,g,g,g,g,g,g,g,B.al,g,g,!0,g,g,g,g,g,g,g,g),g,g)
 i=f.x
 i.toString
 m.push(A.cc(g,new A.pN(n,new A.Cz(k,j,A.b([new A.da(B.cC,g,g,A.aI(i,g,g,g,g,g,g,g,g),g)],p),l===B.mW,B.pP,B.K0,a,a,new A.c4("safety-guidance-"+e.c+"-"+e.a+"-"+l.b,t.d)),g),B.m,g,new A.bJ(r,g,o,q,g,g,B.K),g,g,g,g,g,g,g,1/0))}if(c)f=!(f.c!==B.fW&&f.f!=null)
@@ -52801,7 +52801,7 @@ f=f.bE(c==null?e.k3:c)}B.b.S(m,A.b([B.ez,A.aI("Safety guidance will appear when 
 if(f==null)f=g
 else{e=A.D(a2).ax
 c=e.rx
-f=f.av7(c==null?e.k3:c,B.L6)}B.b.S(m,A.b([B.ez,A.aI("Sensor guidance does not replace official LGU or emergency instructions.",g,g,g,g,g,f,g,g)],p))}return A.oi(new A.b1(B.pS,A.bw(m,B.X,g,B.n),g),g,g,h.as,g)},
+f=f.av7(c==null?e.k3:c,B.L6)}B.b.S(m,A.b([B.ez,A.aI("Safety Guidance does not replace official LGU or emergency instructions.",g,g,g,g,g,f,g,g)],p))}return A.oi(new A.b1(B.pS,A.bw(m,B.X,g,B.n),g),g,g,h.as,g)},
 afk(a){var s,r,q=this.d.a.y
 if(q==null)return"Forecast water"
 s=q.aCV()
